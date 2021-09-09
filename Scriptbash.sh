@@ -1,7 +1,7 @@
 #!/bin/bash 
 
 #Se ejecuta con una ip sacada del comando netstat -nr
-#bash hola.sh 10.0.2.2 10 1000
+#bash Scriptbash.sh 10.0.2.2 10 1000
 
 
 #Ejemplo de scanner de puertos 
