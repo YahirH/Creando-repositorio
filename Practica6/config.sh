@@ -2,7 +2,7 @@
 
 curl ifconfig.me
 
-nmap 189.213.159.2
+nmap 189.213.159.2 > resultado.txt
+nmap facebook.com >> resultado.txt
 
-nmap facebook.com
-
+base64 resultado.txt > NmapResults
