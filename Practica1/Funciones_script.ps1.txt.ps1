@@ -1,4 +1,4 @@
-﻿##ROMARIO GUADALUPE
+
 ##WALTER YAHIR
 
 ###Funcion para ver estatus de un perfil especifico en firewall
