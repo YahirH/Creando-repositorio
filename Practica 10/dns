@@ -1,0 +1,442 @@
+ame . . . . . : config.teams.microsoft.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 10
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.113.194.132
+
+
+    video-weaver.ord02.hls.ttvnw.net
+    ----------------------------------------
+    Record Name . . . . . : video-weaver.ord02.hls.ttvnw.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 639
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.223.241.9
+
+
+    business.bing.com
+    ----------------------------------------
+    Record Name . . . . . : business.bing.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 58
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : business-bing-com.b-0005.b-msedge.net
+
+
+    Record Name . . . . . : business-bing-com.b-0005.b-msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 58
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : b-0005.b-msedge.net
+
+
+    Record Name . . . . . : b-0005.b-msedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 58
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 13.107.6.158
+
+
+    events.gfe.nvidia.com
+    ----------------------------------------
+    Record Name . . . . . : events.gfe.nvidia.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 152
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 72.25.64.32
+
+
+    video-edge-c2b410.dfw02.abs.hls.ttvnw.net
+    ----------------------------------------
+    Record Name . . . . . : video-edge-c2b410.dfw02.abs.hls.ttvnw.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 60
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.223.244.251
+
+
+    t-ring.msedge.net
+    ----------------------------------------
+    Record Name . . . . . : t-ring.msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 13
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : t-ring.t-9999.t-msedge.net
+
+
+    Record Name . . . . . : t-ring.t-9999.t-msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 13
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : t-9999.t-msedge.net
+
+
+    Record Name . . . . . : t-9999.t-msedge.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 13
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2620:1ec:bdf::254
+
+
+    t-ring.msedge.net
+    ----------------------------------------
+    Record Name . . . . . : t-ring.msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 13
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : t-ring.t-9999.t-msedge.net
+
+
+    Record Name . . . . . : t-ring.t-9999.t-msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 13
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : t-9999.t-msedge.net
+
+
+    Record Name . . . . . : t-9999.t-msedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 13
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 13.107.246.254
+
+
+    video-weaver.dfw02.hls.ttvnw.net
+    ----------------------------------------
+    Record Name . . . . . : video-weaver.dfw02.hls.ttvnw.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1245
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.223.241.15
+
+
+    fp-vp-nocache.azureedge.net
+    ----------------------------------------
+    Record Name . . . . . : fp-vp-nocache.azureedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 36
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : fp-vp-nocache.ec.azureedge.net
+
+
+    Record Name . . . . . : fp-vp-nocache.ec.azureedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 36
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : cs9.wpc.v0cdn.net
+
+
+    Record Name . . . . . : cs9.wpc.v0cdn.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 36
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2606:2800:11f:17a5:191a:18d5:537:22f9
+
+
+    fp-vp-nocache.azureedge.net
+    ----------------------------------------
+    Record Name . . . . . : fp-vp-nocache.azureedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 36
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : fp-vp-nocache.ec.azureedge.net
+
+
+    Record Name . . . . . : fp-vp-nocache.ec.azureedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 36
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : cs9.wpc.v0cdn.net
+
+
+    Record Name . . . . . : cs9.wpc.v0cdn.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 36
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 72.21.81.200
+
+
+    teams.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : teams.microsoft.com
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 8
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.113.194.132
+
+
+    video-weaver.den01.hls.ttvnw.net
+    ----------------------------------------
+    Record Name . . . . . : video-weaver.den01.hls.ttvnw.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 1957
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.223.241.11
+
+
+    global.poe.live-video.net
+    ----------------------------------------
+    Record Name . . . . . : global.poe.live-video.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 112
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 23.160.0.0
+
+
+    graph.microsoft.com
+    ----------------------------------------
+    Record Name . . . . . : graph.microsoft.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 41
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : ags.privatelink.msidentity.com
+
+
+    Record Name . . . . . : ags.privatelink.msidentity.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 41
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : www.tm.prd.ags.trafficmanager.net
+
+
+    Record Name . . . . . : www.tm.prd.ags.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 41
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 20.190.157.96
+
+
+    Record Name . . . . . : www.tm.prd.ags.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 41
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 20.190.157.30
+
+
+    Record Name . . . . . : www.tm.prd.ags.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 41
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 20.190.157.31
+
+
+    Record Name . . . . . : www.tm.prd.ags.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 41
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 40.126.29.96
+
+
+    Record Name . . . . . : www.tm.prd.ags.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 41
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 20.190.157.27
+
+
+    Record Name . . . . . : www.tm.prd.ags.trafficmanager.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 41
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 20.190.157.29
+
+
+    usher.ttvnw.net
+    ----------------------------------------
+    Record Name . . . . . : usher.ttvnw.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 72
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 192.108.239.254
+
+
+    Record Name . . . . . : usher.ttvnw.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 72
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 23.160.0.254
+
+
+    ctldl.windowsupdate.com
+    ----------------------------------------
+    Record Name . . . . . : ctldl.windowsupdate.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 125
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : wu-shim.trafficmanager.net
+
+
+    Record Name . . . . . : wu-shim.trafficmanager.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 125
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : fg.download.windowsupdate.com.c.footprint.net
+
+
+    Record Name . . . . . : fg.download.windowsupdate.com.c.footprint.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 125
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2001:1900:2378:108d::1fe
+
+
+    Record Name . . . . . : fg.download.windowsupdate.com.c.footprint.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 125
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2001:1900:2300:6f05::1fe
+
+
+    Record Name . . . . . : fg.download.windowsupdate.com.c.footprint.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 125
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2001:1900:2378:1035::1fe
+
+
+    Record Name . . . . . : fg.download.windowsupdate.com.c.footprint.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 125
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2001:1900:2300:2f18::1fe
+
+
+    Record Name . . . . . : fg.download.windowsupdate.com.c.footprint.net
+    Record Type . . . . . : 28
+    Time To Live  . . . . : 125
+    Data Length . . . . . : 16
+    Section . . . . . . . : Answer
+    AAAA Record . . . . . : 2001:1900:2307:f00::1fe
+
+
+    ctldl.windowsupdate.com
+    ----------------------------------------
+    Record Name . . . . . : ctldl.windowsupdate.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 126
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : wu-shim.trafficmanager.net
+
+
+    Record Name . . . . . : wu-shim.trafficmanager.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 126
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : fg.download.windowsupdate.com.c.footprint.net
+
+
+    Record Name . . . . . : fg.download.windowsupdate.com.c.footprint.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 126
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 8.252.142.126
+
+
+    Record Name . . . . . : fg.download.windowsupdate.com.c.footprint.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 126
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 8.252.150.126
+
+
+    Record Name . . . . . : fg.download.windowsupdate.com.c.footprint.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 126
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 8.252.144.126
+
+
+    Record Name . . . . . : fg.download.windowsupdate.com.c.footprint.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 126
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 8.252.106.254
+
+
+    Record Name . . . . . : fg.download.windowsupdate.com.c.footprint.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 126
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 8.252.157.126
+
+
+    urlp.sfbassets.com
+    ----------------------------------------
+    Record Name . . . . . : urlp.sfbassets.com
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 9
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : urlp-sfbassets-com.s-0005.s-msedge.net
+
+
+    Record Name . . . . . : urlp-sfbassets-com.s-0005.s-msedge.net
+    Record Type . . . . . : 5
+    Time To Live  . . . . : 9
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : s-0005.s-msedge.net
+
+
+    Record Name . . . . . : s-0005.s-msedge.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 9
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.113.194.132
+
+
+    video-edge-c2a3cc.dfw02.abs.hls.ttvnw.net
+    ----------------------------------------
+    Record Name . . . . . : video-edge-c2a3cc.dfw02.abs.hls.ttvnw.net
+    Record Type . . . . . : 1
+    Time To Live  . . . . : 184
+    Data Length . . . . . : 4
+    Section . . . . . . . : Answer
+    A (Host) Record . . . : 52.223.244.242
