@@ -1,6 +1,6 @@
 #!/bin/bash
-MAIL_FROM="sfinktah@bash.spamtrak.org"
-RCPT_TO="sfinktah@bash.spamtrak.org"
+MAIL_FROM="wayahir@gmail.com"
+RCPT_TO="wayahir@hotmail.com"
 MESSAGE=message.txt
 SMTP_PORT=25
 SMTP_DOMAIN=${RCPT_TO##*@}
